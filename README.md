@@ -1,6 +1,6 @@
 # Football API Service
 
-面向足球数据抓取、缓存与接口服务的一体化交付项目。
+面向足球数据抓取、缓存与接口服务的一体化交付项目。爬取网站[足彩](rep:https://kt.59itou.com/956/user/784/shop/details/result_KaMYl.html?id=54156441&station_uuid=329640eji8qu1m1653302035&back=%2F)
 
 本系统围绕以下四个足球模块提供统一查询接口：
 
